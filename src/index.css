@@ -1,0 +1,30 @@
+body {
+  background-color: #d4d3d3;
+  /* background-color: #a19e9e; */
+}
+
+html {
+  height: 100%;
+}
+
+.btn {
+  background-color: #f5a198;
+  color: black;
+}
+
+nav {
+  background-color: #f5a198;
+}
+
+.navLogo {
+  width: 12%;
+}
+
+footer{
+  background-color: #f5a198;
+}
+
+.clear { 
+  clear: both; 
+  height: 60px; 
+}
